@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\CS103\Code\Lab3DiceGame\Debug\Lab3DiceGame.exe
+C:\Users\micha\Desktop\CS103\Code\Lab3DiceGame\Debug\Lab3DiceGame.pdb
